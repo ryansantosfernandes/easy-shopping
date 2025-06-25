@@ -16,7 +16,7 @@
 .container-left {
     display: inline-block;
     width: 60%;
-    margin-top: 5%;
+    margin-top: 10%;
     padding-left: 136px;
 }
 
@@ -58,7 +58,7 @@ p {
     line-height: 48px;
     opacity: 0.6;
     margin: 15px 0 ;
-    width: 500px;
+    width: 600px;
 
 }
 
@@ -75,7 +75,7 @@ p {
 
 .img {
     position: relative;
-    top: 25%;
+    top: 15%;
     width: 300px;
     right: 90px;
 }
