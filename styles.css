@@ -126,6 +126,7 @@ header {
 
     .img {
         position: static;
+        width: 300px;
     }
 
     header {
